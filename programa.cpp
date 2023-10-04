@@ -26,6 +26,7 @@ int main(){
     leer_archivo(archivo);
 
     fclose(archivo);
+    
     return 0;
 };
 
